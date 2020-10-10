@@ -1,6 +1,10 @@
 # SpringBoot-Tour_RESTful
 SpringBoot RestFull-JPA-MySQL
 
+## Tour Diagrama
+
+![TourDiagram4](https://user-images.githubusercontent.com/71657821/95664887-2a7b3800-0b11-11eb-9462-334e7c4de8d0.png)
+
 ## GET_FindAll `localhost:8080/tour`
 
 ![get_findAll](https://user-images.githubusercontent.com/71657821/95646650-6d48fb80-0a90-11eb-879f-7c41383042ae.png)
