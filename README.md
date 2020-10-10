@@ -1,5 +1,5 @@
 # SpringBoot-Tour_RESTful
-SpringBoot webService RestFull-JPA-MySQL
+SpringBoot RestFull-JPA-MySQL
 
 ## GET_FindAll `localhost:8080/tour`
 
@@ -23,6 +23,7 @@ SpringBoot webService RestFull-JPA-MySQL
 
 ## DB
 
-![DB](https://user-images.githubusercontent.com/71657821/95646648-6c17ce80-0a90-11eb-832c-87da15ee1d5e.png)
+![DB](https://user-images.githubusercontent.com/71657821/95646784-90c07600-0a91-11eb-8b0a-d185e4078e2d.png)
+
 
 
